@@ -19,5 +19,14 @@ Date- 9 September, 2024
 
 
 ## Requirements for multi_image_classifier
-1)pytorch
-....will add after file upload
+1)Pytorch
+2)TorchVision
+3)Numpy
+4)PIL
+5)H5py
+
+its a multi class image classifier, we (it was collaborated project) used plants data from kaggle...its given in notebook
+
+Thank You
+
+Date - idk when we created it....it was lying in my colab files (upload date - 2 September 2025)
